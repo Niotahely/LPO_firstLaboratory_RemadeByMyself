@@ -11,6 +11,6 @@ let rec insert el ls  = match ls with
   | hd::tl -> if el = hd then ls else hd :: (insert el tl  );;
   
   
-          (* ─=≡Σ((( つ•̀ω•́)つ  *)
+          (*  ─=≡Σ((( つ•̀ω•́)つ  *)
           
           
