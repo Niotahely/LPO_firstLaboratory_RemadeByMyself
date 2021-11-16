@@ -15,3 +15,5 @@ let rec ord_insert el = function
   | _ -> [el] ;; (* base case*) 
   
       (*   ─=≡Σ((( つ•̀ω•́)つ   *)
+      
+      
