@@ -9,3 +9,6 @@ let rec insert el ls  = match ls with
               otherwise it recursively calls the function to the end *) 
 
   | hd::tl -> if el = hd then ls else hd :: (insert el tl  );;
+  
+  
+          (* ─=≡Σ((( つ•̀ω•́)つ  *)
