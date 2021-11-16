@@ -12,3 +12,6 @@ let rec prod ls = match ls with (* computes the sum of the elements of a list *)
 let rec prod  = function (* computes the sum of the elements of a list *)
     hd::tl -> hd * prod tl (* inductive case *)
   | _ -> 1;; (* base case  *)
+  
+  
+  
