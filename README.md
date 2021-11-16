@@ -1,11 +1,7 @@
 # Laboratory One : OCaml
 this folder contains all the exercises of the first LPO laboratory : written in OCaml
 
-Tipi di traduzione
-Traduzione del testo
-Testo di origine
-2280 / 5000
-Risultati della traduzione
+
 Define the following functions in OCaml, ** without ** accumulation parameters or library functions:
 
 1. `prod: int list -> int`
