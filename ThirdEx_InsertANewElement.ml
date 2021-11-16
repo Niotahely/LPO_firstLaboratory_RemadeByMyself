@@ -12,3 +12,5 @@ let rec insert el ls  = match ls with
   
   
           (* ─=≡Σ((( つ•̀ω•́)つ  *)
+          
+          
