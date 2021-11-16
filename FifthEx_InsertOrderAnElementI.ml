@@ -13,3 +13,5 @@ let rec ord_insert el = function
       if el = hd then l else hd :: ord_insert el tl
                                     
   | _ -> [el] ;; (* base case*) 
+  
+      (*   ─=≡Σ((( つ•̀ω•́)つ   *)
